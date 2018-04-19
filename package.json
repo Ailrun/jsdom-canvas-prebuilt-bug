@@ -1,0 +1,15 @@
+{
+  "name": "jsdom-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-prebuilt": "^2.0.0-alpha.12",
+    "jest": "^22.4.3"
+  }
+}
