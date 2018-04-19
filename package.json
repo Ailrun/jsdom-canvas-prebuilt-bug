@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "canvas-prebuilt": "^2.0.0-alpha.12",
-    "jest": "^22.4.3"
+    "jsdom": "^11.8.0"
   }
 }
